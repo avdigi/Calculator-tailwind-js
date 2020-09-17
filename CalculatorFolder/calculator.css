@@ -1,0 +1,12 @@
+/* Most of the CSS was done via Tailwind CSS - check it out at https://tailwindcss.com/  */
+.w-72 {
+	width: 18rem;
+}
+
+.w-96 {
+	width: 24rem;
+}
+
+#calculator {
+	background-image: url(bg.png);
+}
